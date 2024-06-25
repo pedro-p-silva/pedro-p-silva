@@ -8,8 +8,7 @@ Para conhecer alguns dos meus projetos, acesse o meu <a target="_blank" href="ht
 ##
 
 <div> 
-  <h3>Entre em contato comigo também pelo Linkedin</h3>
-  
+  <h3>Entre em contato comigo também pelo Linkedin</h3><br>
   <a href="https://www.linkedin.com/in/pedro-paulo-de-souza-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
