@@ -27,6 +27,13 @@ Para conhecer alguns dos meus projetos, acesse o meu <a target="_blank" href="ht
   <img align="center" title="MySQL" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="Microsoft SQL Server" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" title="Redis" alt="Pedro-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-</div>
+</div><br>
 
 <!--##![snake gif](https://github.com/pedro-p-silva/pedro-p-silva/blob/output/github-contribution-grid-snake-dark.svg)-->
+
+<!--<a href="https://github.com/pedro-p-silva/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-p-silva" />
+</a> -->
+<a href="https://github.com/pedro-p-silva/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-p-silva&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
