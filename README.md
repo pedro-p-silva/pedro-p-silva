@@ -2,7 +2,7 @@
 <h3>Olá 👋, Eu sou o Pedro!</h3>
 <span><em>Sou um desenvolvedor Back-End.</em></span><br>
 <br>
-<p>Sou um desenvolvedor PHP apaixonado por tecnologia, com 3 anos de experiência na criação de aplicações web. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversos projetos desafiadores, utilizando as mais recentes tecnologias e metodologias de desenvolvimento. Tenho aptidão em PHP, HTML, CSS, JavaScript e frameworks como Laravel e CodeIgniter Além disso, possuo expertise em integração com bancos de dados MySQL e SQL Server, assim como em APIs e soluções de segurança. Estou constantemente buscando aprimorar minhas habilidades e colaborar com a comunidade de desenvolvedores. Meu objetivo é criar soluções inovadoras e de alta qualidade, sempre visando a melhor experiência do usuário.</p>
+<p>Sou um desenvolvedor PHP apaixonado por tecnologia, com 3 anos de experiência na criação de aplicações web. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversos projetos desafiadores, utilizando as mais recentes tecnologias e metodologias de desenvolvimento. Tenho aptidão em PHP, HTML, CSS, JavaScript e frameworks como Laravel e CodeIgniter. Além disso, possuo expertise em integração com bancos de dados MySQL e SQL Server, assim como em APIs e soluções de segurança. Estou constantemente buscando aprimorar minhas habilidades e colaborar com a comunidade de desenvolvedores. Meu objetivo é criar soluções inovadoras e de alta qualidade, sempre visando a melhor experiência do usuário.</p>
 Para conhecer alguns dos meus projetos, acesse o meu <a target="_blank" href="https://pedropsilva.com.br/">portfolio</a>.
 
 ##
